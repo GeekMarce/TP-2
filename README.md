@@ -21,4 +21,4 @@ Botón de envío:
 
 Al hacer clic en "ENVIAR", el correo será enviado utilizando el servidor SMTP de Gmail (requiere habilitar el acceso a aplicaciones menos seguras en tu cuenta).
 
-https://github.com/GeekMarce/TP-2/blob/d0fbcd0ee7ec2fae61e80dd7e4033c4f707f81e9/Captura%20de%20pantalla%202024-11-22%20195324.png
+![image alt] (https://github.com/GeekMarce/TP-2/blob/d0fbcd0ee7ec2fae61e80dd7e4033c4f707f81e9/Captura%20de%20pantalla%202024-11-22%20195324.png)
